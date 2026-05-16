@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 public class PRACOWNIK {
 
         private String idPracownika;
@@ -55,5 +57,10 @@ public class PRACOWNIK {
         if (o == null || getClass() != o.getClass()) return false;
         PRACOWNIK other = (PRACOWNIK) o;
         return this.idPracownika.equals(other.idPracownika);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(idPracownika);
     }
 }

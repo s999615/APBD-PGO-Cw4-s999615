@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PRACOWNIK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PRACOWNIK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PROGRAMISTA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PROGRAMISTA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TESTER.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TESTER.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1778927494265</updated>
       <workItem from="1778927495827" duration="22000" />
-      <workItem from="1778929852491" duration="6174000" />
+      <workItem from="1778929852491" duration="8076000" />
     </task>
     <servers />
   </component>
